@@ -1,6 +1,6 @@
-### Hi there 👋
-
 <!--
+
+### Hi there 👋
 **m-chocolate/m-chocolate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <h2> Hi there 👋</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Developer Immmersive Program at Nanyang Technological University Singapore (Co-organized by by PaCE@NTU and Skills Union).
+- 🌱 I’m currently learning back-end frameworks & APIs and React Native
+- 🤔 I’m looking for help with improving my javascript coding skill
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/manuspon-cho/">here</a>
+- 😄 Pronouns: She
+- ⚡ Fun fact: ISFJ
 - 💼 &nbsp; Looking for Front-End / Back-End / Full-Stack Software Development roles
-- 🌱 &nbsp; Learning more about Back-end frameworks & APIs and React Native.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p> -->
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ Modified from [AVS1508](https://github.com/AVS1508)
