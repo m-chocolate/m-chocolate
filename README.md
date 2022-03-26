@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning back-end frameworks & APIs and React Native
 - 🤔 I’m looking for help with improving my javascript coding skill
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/manuspon-cho/">here</a>
-- 😄 Pronouns: She
 - ⚡ Fun fact: ISFJ
 - 💼 &nbsp; Looking for Front-End / Back-End / Full-Stack Software Development roles
 
